@@ -2,7 +2,7 @@
   "name": "photo-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Azazel-1172.github.io/photo-web",
+  "homepage": "https://Azazel-1172.github.io/photo_web",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
